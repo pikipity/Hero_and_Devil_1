@@ -8,6 +8,6 @@
 
 因为是个美术渣，所以所有素材使用 RPG maker 自带和从 [66RPG](http://www.66rpg.com/res.php) 搜罗而来的。
 
-想要进行游戏只需要将整个项目下载下来，双击 pack 文件夹中的 Game.exe 就可以开始游戏了。如果想修改游戏，首先下载 RPG maker XP，安装完成后，打开 Main Game 文件夹的 Game.rxporj 项目文件就可以了。
+想要进行游戏只需要将整个项目下载下来，双击 pack 文件夹中的 Game.exe 就可以开始游戏了。如果想修改游戏，首先[下载 RPG maker XP](http://pan.baidu.com/share/link?shareid=4152641485&uk=4080321956)，安装完成后，打开 Main Game 文件夹的 Game.rxporj 项目文件就可以了。
 
 如果发现 Bug 请联系我。
